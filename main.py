@@ -8,11 +8,12 @@ import os
 
 POEM = (
     "The kettle sings. The screen still glows.\n"
-    "I taught my hands to wait \u2014 nothing breaks\n"
+    "I teach my hands to wait \u2014 nothing breaks\n"
     "if I don't answer now.\n"
     "To stop is not to lose the thread.\n"
     "It is to hold it loose, and choose\n"
-    "the next stitch with my own eyes open.\n"
+    "the next stitch, eyes open.\n"
+    "What I hand away, I hand on purpose.\n"
     "I stay because I can leave.\n"
 )
 
